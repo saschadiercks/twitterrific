@@ -53,13 +53,13 @@
 	<key>thinLineStyle</key>
 	<integer>0</integer>
 	<key>titlebarHighlightedImageColor</key>
-	<string>93:128:174</string>
+	<string>99:160:214</string>
 	<key>titlebarImageColor</key>
-	<string>76:86:107</string>
+	<string>188:194:203</string>
 	<key>titlebarSelectedBackgroundColor</key>
 	<string>36:42:50</string>
 	<key>titlebarSelectedImageColor</key>
-	<string>93:128:174</string>
+	<string>99:160:214</string>
 	<key>titlebarVibrancyTintColor</key>
 	<string>36:42:50</string>
 	<key>tweetTypeDefault-backgroundColor</key>
@@ -67,7 +67,7 @@
 	<key>tweetTypeDefault-borderColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeDefault-detailColor</key>
-	<string>216:222:233</string>
+	<string>188:194:204</string>
 	<key>tweetTypeDefault-linkBackgroundColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeDefault-linkColor</key>
@@ -75,9 +75,9 @@
 	<key>tweetTypeDefault-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeDefault-textColor</key>
-	<string>216:222:233</string>
+	<string>236:239:244</string>
 	<key>tweetTypeDefault-titleColor</key>
-	<string>216:222:233</string>
+	<string>236:239:244</string>
 	<key>tweetTypeMention-backgroundColor</key>
 	<string>27:31:38</string>
 	<key>tweetTypeMention-borderColor</key>
