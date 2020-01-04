@@ -24,6 +24,10 @@ TBD
 ## Nord
 TBD
 
+# More themes
+You can find themes provided by the Iconfactory and contributed Themes (including these) here:  
+https://www.dropbox.com/sh/kh32xns6ukwwoqn/AADDU8-bVqfWVKFu3CNDJC3na?dl=0
+
 # How to build your own theme
 If you want to build your own themes read more about that here:  
 https://www.ringgit.me/2019/06/how-to-change-twitterrific-v6-theme.html
