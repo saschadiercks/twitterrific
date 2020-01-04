@@ -9,6 +9,9 @@ This Twitterrific theme is based on the Theme Nord by Arctic Ice Studios.
 I've increased the contrast of some colors to make them stand out more.
 Read more about Nord here: https://www.nordtheme.com/
 
+## Nord
+WIP
+
 ## monokai
 This Twitterrific theme is based on twitterrific-monkai created by Jim Cloudman https://github.com/jimcloudman/twitterrific-monokai
 Since the original-theme is build for Twitterrific V5 so I tweaked some colors and made small adjustments to my liking.
