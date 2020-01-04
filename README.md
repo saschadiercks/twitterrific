@@ -4,13 +4,13 @@ A collection of themes for twitterrific
 1. Put the theme-file in your iCloud Drive folder here: `/Twitterrific/Themes/Dark/`
 2. The dark theme can now be used by selecting it as a `dark` Theme on macOS and iOS
 
-## Nord High
+## Nord
 This Twitterrific theme is based on the Theme Nord by Arctic Ice Studios.
-I've increased the contrast of some colors to make them stand out more.
 Read more about Nord here: https://www.nordtheme.com/
 
-## Nord
-WIP
+## Nord High
+This Twitterrific theme is based on the Theme Nord (see above).
+I've increased the contrast of some colors to make them stand out more.
 
 ## monokai
 This Twitterrific theme is based on twitterrific-monkai created by Jim Cloudman https://github.com/jimcloudman/twitterrific-monokai
