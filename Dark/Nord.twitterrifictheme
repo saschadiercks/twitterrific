@@ -11,7 +11,7 @@
 	<key>composeMentionButtonTitleColor</key>
 	<string>76:86:107</string>
 	<key>composeMessageButtonBackgroundColor</key>
-	<string>230:115:209</string>
+	<string>181:141:174</string>
 	<key>composeMessageButtonTitleColor</key>
 	<string>76:86:107</string>
 	<key>composeTweetButtonBackgroundColor</key>
@@ -25,7 +25,7 @@
 	<key>dividerColor</key>
 	<string>67:76:95</string>
 	<key>favoriteColor</key>
-	<string>230:92:105</string>
+	<string>193:96:105</string>
 	<key>markerColor</key>
 	<string>93:128:174</string>
 	<key>profileBackgroundColor</key>
@@ -35,11 +35,11 @@
 	<key>profileNegativeColor</key>
 	<string>193:96:105</string>
 	<key>profilePositiveColor</key>
-	<string>100:178:35</string>
+	<string>162:191:138</string>
 	<key>profileTitleColor</key>
 	<string>236:239:244</string>
 	<key>retweetColor</key>
-	<string>93:166:33</string>
+	<string>162:191:138</string>
 	<key>standardBackgroundColor</key>
 	<string>36:41:51</string>
 	<key>standardHighlightedImageColor</key>
@@ -71,7 +71,7 @@
 	<key>tweetTypeDefault-linkBackgroundColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeDefault-linkColor</key>
-	<string>82:141:204</string>
+	<string>93:128:174</string>
 	<key>tweetTypeDefault-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeDefault-textColor</key>
@@ -83,39 +83,39 @@
 	<key>tweetTypeMention-borderColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeMention-detailColor</key>
-	<string>240:226:198</string>
+	<string>236:204:135</string>
 	<key>tweetTypeMention-linkBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeMention-linkColor</key>
-	<string>241:195:88</string>
+	<string>236:204:135</string>
 	<key>tweetTypeMention-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeMention-textColor</key>
 	<string>216:222:233</string>
 	<key>tweetTypeMention-titleColor</key>
-	<string>241:195:88</string>
+	<string>236:204:135</string>
 	<key>tweetTypeMessage-backgroundColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeMessage-borderColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeMessage-detailColor</key>
-	<string>195:160:188</string>
+	<string>181:141:174</string>
 	<key>tweetTypeMessage-linkBackgroundColor</key>
 	<string>205:226:237</string>
 	<key>tweetTypeMessage-linkColor</key>
-	<string>237:141:217</string>
+	<string>181:141:174</string>
 	<key>tweetTypeMessage-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeMessage-textColor</key>
 	<string>216:222:233</string>
 	<key>tweetTypeMessage-titleColor</key>
-	<string>237:141:217</string>
+	<string>181:141:174</string>
 	<key>tweetTypeQuoted-backgroundColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeQuoted-borderColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeQuoted-detailColor</key>
-	<string>93:128:174</string>
+	<string>128:160:194</string>
 	<key>tweetTypeQuoted-linkBackgroundColor</key>
 	<string>201:201:202</string>
 	<key>tweetTypeQuoted-linkColor</key>
@@ -147,17 +147,17 @@
 	<key>tweetTypeSent-borderColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeSent-detailColor</key>
-	<string>170:191:152</string>
+	<string>162:191:138</string>
 	<key>tweetTypeSent-linkBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeSent-linkColor</key>
-	<string>100:178:35</string>
+	<string>162:191:138</string>
 	<key>tweetTypeSent-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeSent-textColor</key>
 	<string>216:222:233</string>
 	<key>tweetTypeSent-titleColor</key>
-	<string>100:178:35</string>
+	<string>162:191:138</string>
 	<key>tweetTypeSentMessage-backgroundColor</key>
 	<string>59:66:83</string>
 	<key>tweetTypeSentMessage-borderColor</key>
@@ -167,12 +167,12 @@
 	<key>tweetTypeSentMessage-linkBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeSentMessage-linkColor</key>
-	<string>230:92:105</string>
+	<string>193:96:105</string>
 	<key>tweetTypeSentMessage-selectedBackgroundColor</key>
 	<string>46:52:64</string>
 	<key>tweetTypeSentMessage-textColor</key>
 	<string>216:222:233</string>
 	<key>tweetTypeSentMessage-titleColor</key>
-	<string>230:92:105</string>
+	<string>193:96:105</string>
 </dict>
 </plist>
