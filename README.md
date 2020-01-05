@@ -24,8 +24,8 @@ TBD
 1. Put the theme-file in your iCloud Drive folder here: `/Twitterrific/Themes/Light/`
 2. The dark theme can now be used by selecting it as a `light` Theme on macOS and iOS
 
-## Nord
-TBD
+## Nord HIGH
+WIP
 
 # More themes
 You can find themes provided by the Iconfactory and contributed Themes (including these) here:  
