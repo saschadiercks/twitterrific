@@ -24,7 +24,7 @@ TBD
 1. Put the theme-file in your iCloud Drive folder here: `/Twitterrific/Themes/Light/`
 2. The dark theme can now be used by selecting it as a `light` Theme on macOS and iOS
 
-## Nord HIGH
+## Nord High
 WIP
 
 # More themes
