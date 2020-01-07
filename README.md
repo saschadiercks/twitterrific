@@ -35,7 +35,7 @@ https://www.dropbox.com/sh/kh32xns6ukwwoqn/AADDU8-bVqfWVKFu3CNDJC3na?dl=0
 If you want to build your own themes read more about that here:  
 https://www.ringgit.me/2019/06/how-to-change-twitterrific-v6-theme.html
 
-Iconfactoyr provides Nerdy Bird, to customize the colors the easy way. Download this handy Tool for the Mac here:  
+Iconfactory provides Nerdy Bird, to customize the colors the easy way. Download this handy Tool for the Mac here:  
 https://www.dropbox.com/sh/yn5rbyveksjgeqj/AADeJJqzb5cr484fPmctcunba?dl=0
 
 Some Info from Iconfactory itself about themes:  
