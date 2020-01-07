@@ -111,7 +111,7 @@
 	<key>tweetTypeMessage-titleColor</key>
 	<string>237:141:217</string>
 	<key>tweetTypeQuoted-backgroundColor</key>
-	<string>46:52:64</string>
+	<string>42:47:58</string>
 	<key>tweetTypeQuoted-borderColor</key>
 	<string>85:95:115</string>
 	<key>tweetTypeQuoted-detailColor</key>
