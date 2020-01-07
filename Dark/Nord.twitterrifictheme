@@ -85,7 +85,7 @@
 	<key>tweetTypeMention-detailColor</key>
 	<string>95:106:126</string>
 	<key>tweetTypeMention-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeMention-linkColor</key>
 	<string>236:204:135</string>
 	<key>tweetTypeMention-selectedBackgroundColor</key>
@@ -101,7 +101,7 @@
 	<key>tweetTypeMessage-detailColor</key>
 	<string>95:106:126</string>
 	<key>tweetTypeMessage-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeMessage-linkColor</key>
 	<string>181:141:174</string>
 	<key>tweetTypeMessage-selectedBackgroundColor</key>
@@ -117,7 +117,7 @@
 	<key>tweetTypeQuoted-detailColor</key>
 	<string>76:86:107</string>
 	<key>tweetTypeQuoted-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeQuoted-linkColor</key>
 	<string>76:86:107</string>
 	<key>tweetTypeQuoted-selectedBackgroundColor</key>
@@ -133,7 +133,7 @@
 	<key>tweetTypeReply-detailColor</key>
 	<string>95:106:126</string>
 	<key>tweetTypeReply-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeReply-linkColor</key>
 	<string>210:135:109</string>
 	<key>tweetTypeReply-selectedBackgroundColor</key>
@@ -149,7 +149,7 @@
 	<key>tweetTypeSent-detailColor</key>
 	<string>95:106:126</string>
 	<key>tweetTypeSent-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeSent-linkColor</key>
 	<string>162:191:138</string>
 	<key>tweetTypeSent-selectedBackgroundColor</key>
@@ -165,7 +165,7 @@
 	<key>tweetTypeSentMessage-detailColor</key>
 	<string>95:106:126</string>
 	<key>tweetTypeSentMessage-linkBackgroundColor</key>
-	<string>95:106:126</string>
+	<string>59:66:83</string>
 	<key>tweetTypeSentMessage-linkColor</key>
 	<string>193:96:105</string>
 	<key>tweetTypeSentMessage-selectedBackgroundColor</key>
