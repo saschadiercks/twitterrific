@@ -123,9 +123,9 @@
 	<key>tweetTypeQuoted-selectedBackgroundColor</key>
 	<string>30:31:44</string>
 	<key>tweetTypeQuoted-textColor</key>
-	<string>117:127:145</string>
+	<string>188:193:200</string>
 	<key>tweetTypeQuoted-titleColor</key>
-	<string>194:108:74</string>
+	<string>255:70:92</string>
 	<key>tweetTypeReply-backgroundColor</key>
 	<string>29:35:43</string>
 	<key>tweetTypeReply-borderColor</key>
