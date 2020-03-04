@@ -53,13 +53,13 @@
 	<key>thinLineStyle</key>
 	<true/>
 	<key>titlebarHighlightedImageColor</key>
-	<string>146:177:205</string>
+	<string>112:147:188</string>
 	<key>titlebarImageColor</key>
 	<string>26:29:34</string>
 	<key>titlebarSelectedBackgroundColor</key>
 	<string>0:0:0</string>
 	<key>titlebarSelectedImageColor</key>
-	<string>146:177:205</string>
+	<string>112:147:188</string>
 	<key>titlebarVibrancyTintColor</key>
 	<string>36:42:50</string>
 	<key>tweetTypeDefault-backgroundColor</key>
